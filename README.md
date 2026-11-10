@@ -59,7 +59,7 @@ Copy the link for the style you want and use **one** style at a time. The guide 
 [![Glass preview](Previews/preview-glass.png)](Previews/preview-glass.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges.json
 ```
 
 ### Neon
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges.json
 [![Neon preview](Previews/preview-neon.png)](Previews/preview-neon.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-neon.json
 ```
 
 ### Solid
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon.json
 [![Solid preview](Previews/preview-solid.png)](Previews/preview-solid.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-solid.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-solid.json
 ```
 
 ### Icon Dark
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-solid.json
 [![Icon Dark preview](Previews/preview-icon-dark.png)](Previews/preview-icon-dark.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-icon-dark.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-icon-dark.json
 ```
 
 ### Split
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-icon-dark.js
 [![Split preview](Previews/preview-split.png)](Previews/preview-split.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-split.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-split.json
 ```
 
 ### Frost
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-split.json
 [![Frost preview](Previews/preview-frost.png)](Previews/preview-frost.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-frost.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-frost.json
 ```
 
 ### Neon Icon
@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-frost.json
 [![Neon Icon preview](Previews/preview-neon-icon.png)](Previews/preview-neon-icon.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon-icon.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-neon-icon.json
 ```
 
 ### Minimal
@@ -115,7 +115,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon-icon.js
 [![Minimal preview](Previews/preview-minimal.png)](Previews/preview-minimal.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-minimal.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-minimal.json
 ```
 
 ### Light
@@ -123,7 +123,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-minimal.json
 [![Light preview](Previews/preview-light.png)](Previews/preview-light.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-light.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-light.json
 ```
 
 ### Icon Light
@@ -131,7 +131,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-light.json
 [![Icon Light preview](Previews/preview-icon-light.png)](Previews/preview-icon-light.png)
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-icon-light.json
+https://raw.githubusercontent.com/dhankhar313/FR-Badges/main/badges-icon-light.json
 ```
 
 If the app caches images, clear its cache after switching styles.
